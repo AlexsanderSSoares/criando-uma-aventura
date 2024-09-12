@@ -1,3 +1,7 @@
+//Alexsander Santos Soares
+//3ºB
+//E. E. Prof Célio Luiz Negrini
+
 const avanca = document.querySelectorAll('.btn-proximo');
 
 avanca.forEach(button => {
